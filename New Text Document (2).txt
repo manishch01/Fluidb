@@ -1,0 +1,28 @@
+THP   Tubing Hanger Pressure
+CHP   Casing Hanger Pressure
+NPV   Net Present Value
+DTI   Department of Trade and Industry
+LP    Low Pressure
+LNG   Liquified Natural Gas
+HP    High Pressure
+API   American Petroleum Institute
+BOM   Bill of Materials
+NRV   Non Return Valve
+NGL   Natural Gas Liquids
+OD    Outer Diameter
+ID    Inner Diameter
+HSE   Health, Safety and Environment
+MMSCFD Million Standard Cubic Feet Per Day
+SCF   Standard Cubic Feet
+Bcf   Billion Cubic Feet
+GTL   Gas To Liquid
+PUWER Provision and Use of Work Equipment Regulations
+PSL   Product Specification Level
+IBC   Intermediate Bulk Container
+BHP   Bottom Hole Pressure
+PVT   Pressure-volume-temperature	
+PPG   Pound per Gallon
+PPF   Pound per feet
+GOR   Gas Oil Ratio	
+DCA   Decline Curve Analysis 
+RTA   Rate Transient Analysis
